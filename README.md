@@ -2,16 +2,24 @@
 
 Updating static site template with PHP includes and components.
 
-Built with:
+## Assets
+
+- Images (placeholder)
+  - Created by AI
+  - From Unsplash
+- Icons
+  - Google (font) [Material Symbols Outlined](https://fonts.google.com/icons?icon.size=24&icon.color=%231f1f1f) (self-hosted)
+- Copy (placeholder)
+  - Created by AI
+
+## Technologies
 
 - PHP
 - Semantic HTML
 - Vanilla CSS
 - Vanilla JS
-- Google (font) Material Symbols Outlined (self-hosted)
-- Paceholder copy created by AI
 
-Using XAMPP to work on files locally. [Download from SourceForge](https://sourceforge.net/projects/xampp/).
+XAMPP to work on files locally. [Download from SourceForge](https://sourceforge.net/projects/xampp/).
 
 ## Notes:
 

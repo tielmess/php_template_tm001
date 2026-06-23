@@ -10,7 +10,7 @@ $content = [
     
     'portfolio_section' => [
         'heading'    => "Local Business",
-        'subheading' => "Explore premium local business services",
+        'subheading' => "Explore premium local business services.",
     ],
 
     'nav' => [
@@ -129,7 +129,7 @@ $content = [
                     [
                         'We source raw materials exclusively from <span style="white-space: nowrap;">FSC-certified</span> forests and local stone quarries within a <span style="white-space: nowrap;">200-mile</span> radius of our main workshop. This minimizes our carbon footprint while supporting regional economies.'
                     ],
-                    'image_url' => 'https://lh3.googleusercontent.com/aida-public/AB6AXuBzAkeoP4_Vszgi9qS2Hu9qkI56PzOuz_fSR0zNQKOeKYyAIOrYQt2ttPUisO8e4sA2Ah3APdlFrAvlETcFDqF6-2EZj-9IW_DaOU9IHG3MuID-_JlBgC3SDMbFd92vvAj3uXNILqFBnW4vVlMbxpdbyMjrdsuQ6GM5OGAi1IhFNwxICBNUiFUNvLxK29CphJOKqKYt4PBMH-6AciRMwxVg-QoEMakG_dRmZz8hwmHIuqAQpvAcNpbfeKmq9ERjbsnduuG3UIrnFN9Z',
+                    'image_url' => 'assets/img/weathered-timber.png',
                     'image_alt' => 'Raw weathered timber in workshop', 
                     'button_url' => '',
                     'button_text' => '' 
