@@ -1585,13 +1585,12 @@ details.faq-item[open] summary .plus-icon {
 }
 
 .btn-primary {
-    background-color: var(--primary);
-    color: var(--on-primary);
+    color: var(--text-button);
     padding: 1rem 2rem;
     margin-top: 1.5rem;
     transition: background-color 0.3s;
 }
 
 .btn-primary:hover {
-    background-color: var(--secondary);
+    color: var(--text-button);
 }
