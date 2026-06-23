@@ -48,10 +48,10 @@ if (class_exists('HTMLPurifier_Config')) {
           <?php endif; ?>
         </div>
 
-        <?php if (!empty($faq['button_url'])) : ?>
-          <button class="label-md btn-primary" style="margin-top: 0; margin-bottom: 1em">
-            <?php echo htmlspecialchars($faq['button_text']); ?>
-          </button>
+        <?php if (!empty($faq['inquire_url'])) : ?>
+          <a href="<?php echo htmlspecialchars($faq['inquire_url']); ?>" class="label-md btn btn-primary" style="margin-top: 0; margin-bottom: 1em">
+            <?php echo htmlspecialchars($faq['inquire_text']); ?>
+          </a>
         <?php endif; ?>
       </details>
     <?php endforeach; ?>

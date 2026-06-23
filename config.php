@@ -174,8 +174,8 @@ $content = [
                     ],
                     'image_url' => '',
                     'image_alt' => '', 
-                    'button_url' => '#contact',
-                    'button_text' => 'Inquire for Bespoke'  
+                    'inquire_url' => '#contact',
+                    'inquire_text' => 'Inquire for Bespoke'  
                 ]
             ]
         ] // <--- End Category 3
