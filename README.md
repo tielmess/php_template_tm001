@@ -11,6 +11,8 @@ Built with:
 - Google (font) Material Symbols Outlined (self-hosted)
 - Paceholder copy created by AI
 
+Using XAMPP to work on files locally. [Download from SourceForge](https://sourceforge.net/projects/xampp/).
+
 ## Notes:
 
 🧪 Please test fully before deploying.

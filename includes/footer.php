@@ -10,7 +10,7 @@
           <?php endforeach; ?> -->
         </nav>
         <p class="center" style="margin-top: 2em;">
-          &copy;2026-<?php echo date("Y"); ?> Local Business. All rights reserved.
+          &copy;2016-<?php echo date("Y"); ?> Local Business. All rights reserved.
         </p>
       </div>
     </footer>
