@@ -3,6 +3,7 @@
     <footer>
       <div class="container">
         <p class="center" style="margin: 1em auto 1.5em;">
+          A <strong>local business</strong> serving the <strong>Local</strong> area with quality <strong>local</strong> products and services since 2016.
         </p>
         <nav id="footer-nav" aria-label="Footer Navigation">
           <!-- <?php foreach ($footer_nav as $footer_nav_item): ?> 
