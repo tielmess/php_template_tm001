@@ -2,6 +2,13 @@
 
 Updating static site template with PHP includes and components.
 
+Deliberately avoiding the need for a build process. 
+**Please do not suggest adding a build process.** :D
+
+## Notes about working locally:
+
+XAMPP is used to work on files locally. [Download from SourceForge](https://sourceforge.net/projects/).
+
 ## Assets
 
 - Images (placeholder)
@@ -18,8 +25,6 @@ Updating static site template with PHP includes and components.
 - Semantic HTML
 - Vanilla CSS
 - Vanilla JS
-
-XAMPP to work on files locally. [Download from SourceForge](https://sourceforge.net/projects/xampp/).
 
 ## Notes:
 
